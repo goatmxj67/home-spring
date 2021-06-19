@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3438969543.index
+\01_BEAN\src\main\java
+C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1073564682.index
+\02_DI\src\main\java
+C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2540534541.index
+\02_DI\src\main\java
+C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\803502942.index
+\01_BEAN\src\main\java
