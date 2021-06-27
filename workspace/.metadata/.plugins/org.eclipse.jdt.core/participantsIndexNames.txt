@@ -3,6 +3,8 @@ C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\
 \05_MVC_REQUEST\src\main\java
 C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3438969543.index
 \01_BEAN\src\main\java
+C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2953818431.index
+\07_MVC_AJAX\src\main\java
 C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1073564682.index
 \02_DI\src\main\java
 C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\268164286.index
