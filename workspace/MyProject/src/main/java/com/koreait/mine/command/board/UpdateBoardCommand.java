@@ -13,7 +13,7 @@ import org.springframework.web.multipart.MultipartHttpServletRequest;
 import com.koreait.mine.dao.BoardDAO;
 
 public class UpdateBoardCommand implements BoardCommand {
-
+ 
 	@Override
 	public void execute(SqlSession sqlSession, Model model) {
 		
