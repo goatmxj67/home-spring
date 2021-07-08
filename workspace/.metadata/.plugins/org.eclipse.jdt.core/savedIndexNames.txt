@@ -67,7 +67,6 @@ INDEX VERSION 1.130+C:\SPRING0303\springstudy\workspace\.metadata\.plugins\org.e
 300795519.index
 1938810391.index
 218374854.index
-2701284951.index
 65714588.index
 3185052749.index
 341406688.index
