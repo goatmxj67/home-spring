@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.ui.Model;
 
-import com.koreait.contact01.dao.ContactDAO;
+import com.koreait.contact01.dao.ContactDAO; 
 
 public class DeleteContactCommand implements ContactCommand {
 
