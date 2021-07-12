@@ -17,3 +17,4 @@
 		<td><a href="selectBoardByIdx.do?bIdx=${boardDTO.BIdx}">${boardDTO.BTitle}</a></td>
 		<td>${boardDTO.BDate}</td>
 	</tr>
+9) <view.jsp> bIdx -> BIdx 나머지 변수도 마찬가지로 수정
