@@ -18,3 +18,5 @@
 		<td>${boardDTO.BDate}</td>
 	</tr>
 9) <view.jsp> bIdx -> BIdx 나머지 변수도 마찬가지로 수정
+10) <view.jsp> f.action = 'deleteBoard.do?idx=${boardDTO.idx}'; / @PostMapping
+11) <view.jsp> f.action = 'updateBoard.do?bIdx=${boardDTO.BIdx}&bContent=${boardDTO.BContent}&bTitle=${boardDTO.BTitle}'; / @PostMapping
