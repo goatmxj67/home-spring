@@ -10,4 +10,11 @@
 		SELECT COUNT(*)
 		  FROM BOARD
 	</select>
-8) 
+8) <list.jsp> bIdx -> BIdx 나머지 변수도 마찬가지로 수정
+	<tr>
+		<td>${boardDTO.BIdx}</td>
+		<td>${boardDTO.BWriter}</td>
+		<td><a href="selectBoardByIdx.do?bIdx=${boardDTO.BIdx}">${boardDTO.BTitle}</a></td>
+		<td>${boardDTO.BDate}</td>
+	</tr>
+9) 
